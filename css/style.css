@@ -33,10 +33,10 @@ body {
 
 .joinbtn {
 	text-align: center;
-	font-size: 4em;
-	font-family: 'Poppins', sans-serif;
+	font-size: 3em;
+	font-family: 'Libre Caslon Display', serif;
 	font-variant: small-caps;
-	color: #F8F7F7;
+	color: #FFFFF;
 }
 
 /* Link attributes */
