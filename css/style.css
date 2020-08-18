@@ -25,8 +25,8 @@ body {
 	background: url(../img/homepageGraphic.jpg) no-repeat center;
 }
 
-.loreicon {
-	margin-top: 100px;
+.logo {
+	margin-top: 50px;
 	padding-bottom: 30px;
 	text-align: center;
 }
@@ -34,9 +34,9 @@ body {
 .joinbtn {
 	text-align: center;
 	font-size: 4em;
-	font-family: 'EB Garamond', serif;
+	font-family: 'Poppins', sans-serif;
 	font-variant: small-caps;
-	color: #e7cf95;
+	color: #F8F7F7;
 }
 
 /* Link attributes */
