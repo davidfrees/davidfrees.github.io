@@ -26,17 +26,18 @@ body {
 }
 
 .logo {
-	margin-top: 50px;
-	padding-bottom: 30px;
+	margin-top: 30px;
+	padding-bottom: 20px;
 	text-align: center;
 }
 
 .joinbtn {
 	text-align: center;
-	font-size: 3.4em;
-	font-family: 'EB Garamond', serif;
+	font-size: 3.1em;
+	font-family: 'Poppins', sans-serif;
 	font-variant: small-caps;
 	color: #FDFBFA;
+	padding-bottom: 40px;
 }
 
 .headingA {
