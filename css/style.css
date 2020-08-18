@@ -34,9 +34,17 @@ body {
 .joinbtn {
 	text-align: center;
 	font-size: 3.4em;
-	font-family: 'Libre Caslon Display', serif;
+	font-family: 'EB Garamond', serif;
 	font-variant: small-caps;
 	color: #FDFBFA;
+}
+
+.headingA {
+	text-align: center;
+	font-size: 4em;
+	font-family: 'EB Garamond', serif;
+	font-variant: small-caps;
+	color: #232121;
 }
 
 /* Link attributes */
