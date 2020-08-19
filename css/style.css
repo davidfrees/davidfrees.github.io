@@ -25,27 +25,18 @@ body {
 	background: url(../img/homepageGraphic.jpg) no-repeat center;
 }
 
-.logo {
-	margin-top: 30px;
-	padding-bottom: 20px;
+.loreicon {
+	margin-top: 100px;
+	padding-bottom: 30px;
 	text-align: center;
 }
 
 .joinbtn {
 	text-align: center;
-	font-size: 3.1em;
-	font-family: 'Poppins', sans-serif;
-	font-variant: small-caps;
-	color: #FDFBFA;
-	padding-bottom: 40px;
-}
-
-.headingA {
-	text-align: center;
 	font-size: 4em;
 	font-family: 'EB Garamond', serif;
 	font-variant: small-caps;
-	color: #232121;
+	color: #e7cf95;
 }
 
 /* Link attributes */
